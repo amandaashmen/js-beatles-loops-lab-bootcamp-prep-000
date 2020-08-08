@@ -17,6 +17,7 @@ function johnLennonFacts(facts) {
     i++;
     
     console.log(i)
+    console.log(array)
   }
   return array
 }
