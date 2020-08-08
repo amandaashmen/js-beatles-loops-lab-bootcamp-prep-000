@@ -21,6 +21,8 @@ function johnLennonFacts(facts) {
   return array
 }
 
+johnLennonFacts(["a", "b"])
+
 /*
 function iLoveTheBeatles(number) {
   var store = []
