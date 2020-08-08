@@ -30,4 +30,3 @@ function iLoveTheBeatles(number) {
   return store
 }
 
-function
