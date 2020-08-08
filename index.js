@@ -16,9 +16,11 @@ function johnLennonFacts(facts) {
     array[i] = facts[i] + "!!!";
     i++;
   }
+  console.log(array)
   return array
 }
 
+/*
 function iLoveTheBeatles(number) {
   var store = []
   do {
@@ -28,4 +30,5 @@ function iLoveTheBeatles(number) {
   
   return store
 }
+*/
 
