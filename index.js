@@ -19,7 +19,6 @@ function johnLennonFacts(facts) {
   return array
 }
 
-/*
 function iLoveTheBeatles(number) {
   var store = []
   do {
@@ -29,5 +28,4 @@ function iLoveTheBeatles(number) {
   
   return store
 }
-*/
 
